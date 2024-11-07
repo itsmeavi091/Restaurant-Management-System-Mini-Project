@@ -51,7 +51,8 @@ A simple console-based Restaurant Management System built in C# that allows both
 3. View Order Details
 4. Generate Bill
 5. Exit
-
-## Example Usage
-
-### Admin Menu:
+   
+### Contributing
+    Feel free to fork the repository and contribute by submitting pull requests. If you encounter any bugs or have suggestions for improvements, please open an issue in the GitHub repository.
+## Authors
+Avinash Kumar
